@@ -3,6 +3,7 @@ body {
     font-family: Helvetica, sans-serif;
     font-size: 22px;
     color: seashell;
+    
 }
 
 header {
@@ -33,5 +34,25 @@ nav span {
 #nav-img {
     height: 50px;
     padding-left: 10px;
+    text-align: right;
 }
 
+#main {
+    text-align: center;
+}
+
+#mission {
+    height: 700px;
+    background-image: url('img-mission-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#mission .content {
+    margin: auto;
+    width: 100%;
+    background-color: black;
+}
