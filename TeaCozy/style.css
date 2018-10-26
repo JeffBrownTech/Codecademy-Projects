@@ -1,26 +1,37 @@
 body {
     background-color: black;
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
     color: seashell;
 }
 
 header {
     width: 100%;
+    height: 69px;
     position: fixed;
-    display: flex;
+    /* display: flex; Warning-this will mess up your text alignment */
     background-color: black;
     border-bottom: 1px solid seashell;
+    align-items: center;
 }
 
 a {
     color: seashell;
+    text-decoration: underline;
 }
 
 nav {
     float: right;
-    text-align: right;
+    /* text-align: right; */
+}
+
+nav span {
+    display: inline-block;
+    padding: 20px 10px;
 }
 
 #nav-img {
     height: 50px;
+    padding-left: 10px;
 }
 
