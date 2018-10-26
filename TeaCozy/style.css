@@ -1,7 +1,26 @@
 body {
     background-color: black;
-}
-
-header a {
     color: seashell;
 }
+
+header {
+    width: 100%;
+    position: fixed;
+    display: flex;
+    background-color: black;
+    border-bottom: 1px solid seashell;
+}
+
+a {
+    color: seashell;
+}
+
+nav {
+    float: right;
+    text-align: right;
+}
+
+#nav-img {
+    height: 50px;
+}
+
