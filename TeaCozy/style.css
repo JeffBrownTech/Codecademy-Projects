@@ -58,12 +58,8 @@ nav span {
 }
 
 #featured-tea {
-    display: flex;
-    justify-content: center;
-}
-
-#featured-tea .content {
-    
+    /*display: flex;
+    justify-content: center;*/
 }
 
 #featured-tea img {
