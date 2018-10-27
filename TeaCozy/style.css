@@ -56,3 +56,17 @@ nav span {
     width: 100%;
     background-color: black;
 }
+
+#featured-tea {
+    display: flex;
+    justify-content: center;
+}
+
+#featured-tea .content {
+    
+}
+
+#featured-tea img {
+    width: 300px;
+    height: 200px;
+}
