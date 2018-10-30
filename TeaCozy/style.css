@@ -82,3 +82,25 @@ nav span {
     display: block;
     padding: 5px;
 }
+
+#locations {
+    height: 500px;
+    padding-top: 30px;
+    margin-top: 40px;
+    background-image: url('img-locations-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#locations h2 {
+    display: block;
+}
+
+.store {
+    width: 300px;
+    height: 225px;
+    margin: 5px 20px;
+    padding: 10px;
+    background-color: black;
+    opacity: 1;
+}
