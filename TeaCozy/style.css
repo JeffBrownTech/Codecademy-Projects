@@ -104,3 +104,11 @@ nav span {
     background-color: black;
     opacity: 1;
 }
+
+#contact {
+    height: 200px;
+}
+
+footer {
+    text-align: left;
+}
