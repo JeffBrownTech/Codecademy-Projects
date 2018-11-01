@@ -65,8 +65,8 @@ nav span {
 }
 
 #featured-tea {
-    /*display: flex;
-    justify-content: center;*/
+    width: 1000px;
+    margin: auto;
 }
 
 #featured-tea img {
