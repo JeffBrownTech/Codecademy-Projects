@@ -1,0 +1,1 @@
+This is the Team Stats Codecademy project. This is the initial implementation. Need to add additional functionality outside the project requirements, like calculating number of wins and losses.
