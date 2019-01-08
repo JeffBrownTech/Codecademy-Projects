@@ -10,12 +10,19 @@ body {
     margin: 0 auto;
 }
 
+.question-text {
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .hint-box {
     background-color: #0b2748;
     color: #4a90e2;
     font-size: 20px;
     height: 40px;
     line-height: 40px;
+    cursor: pointer;
 }
 
 .hint {
@@ -24,6 +31,7 @@ body {
     font-size: 20px;
     height: 40px;
     line-height: 40px;
+    display: none;
 }
 
 .answer-option {
@@ -31,6 +39,9 @@ body {
     font-size: 30px;
     line-height: 50px;
     margin-top: 0px;
+    cursor: pointer;
+    text-align: left;
+    padding-left: 40px;
 }
 
 .wrong-answer-one {
