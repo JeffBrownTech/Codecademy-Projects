@@ -59,3 +59,17 @@ body {
 .correct-answer {
     background-color: #edf5ff;
 }
+
+.result {
+    background-color: #0b2748;
+    height: 100px;
+    color: white;
+}
+
+.frown {
+    display: none;
+}
+
+.smiley {
+    display: none;
+}
